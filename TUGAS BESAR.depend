@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704273910 source:d:\study\tugas besar\main.cpp
+	"MLL.h"
+	<iostream>
+
+1704273913 d:\study\tugas besar\mll.h
+	<iostream>
+
+1704276253 source:d:\study\tugas besar\mll.cpp
+	"MLL.h"
+
